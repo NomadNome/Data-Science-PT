@@ -1,0 +1,11 @@
+ID,Agency,State,Year,Population,Violent crime total,Murder and nonnegligent Manslaughter,Legacy rape,Robbery,Aggravated assault,Property crime total,Burglary,Larceny theft,Motor vehicle theft,Violent Crime rate,Murder and nonnegligent manslaughter rate,Legacy rape rate,Robbery rate,Aggravated assault rate,Property crime rate,Burglary rate,Larceny theft rate,Motor vehicle theft rate
+1,"Austin-Round Rock-San Marcos, TX",TX,2012,986517,3710,32,268,1051,2359,47665,7833,37332,2500,887.6,5.8,112.2,218.9,550.7,10986.6,1719.9,8689.5,577.1
+1,"Austin-Round Rock-San Marcos, TX",TX,2014,1072746,3901,32,0,946,2280,41386,6330,32587,2469,838.9,3.5,0,191.4,479,9189.3,1472.4,7188.6,528.2
+2,"Dallas-Plano-Irving, TX Metropolitan Division",TX,2012,1739372,9245,158,568,4338,4181,67060,18462,40657,7941,1032,14.1,71.3,430.2,516.5,9545.8,2266,6344.2,935.6
+2,"Dallas-Plano-Irving, TX Metropolitan Division",TX,2014,1781926,9428,125,0,4187,4219,57468,13554,36005,7909,1050.9,12.7,0,434.8,497.6,8286.9,1665.7,5715.4,905.7
+3,"San Antonio-New Braunfels, TX",TX,2012,1440605,7058,90,568,1891,4509,84778,15968,62351,6459,693.2,8.1,71.2,179.7,434.2,9478.5,1631.3,7233.8,613.4
+3,"San Antonio-New Braunfels, TX",TX,2014,1493087,7886,104,0,1798,4898,79493,12657,59522,7314,820.9,8.7,0,156.9,566,8669,1348.5,6551.5,769.1
+4,"Houston-Sugar Land-Baytown, TX",TX,2012,2334617,21966,222,684,9519,11541,112903,27858,71633,13412,1455.8,16.7,55.5,605.9,777.7,11754.1,2833.4,7865.8,1055
+4,"Houston-Sugar Land-Baytown, TX",TX,2014,2381241,22348,248,0,10306,10944,108754,22487,71348,14919,1423.9,18.7,0,611.3,708.3,10479.9,2069.7,7141.9,1268.3
+5,"Fort Worth-Arlington, TX Metropolitan Division",TX,2012,1149396,6434,62,526,1812,4034,47623,11985,32264,3374,1090.9,10.3,86.4,306.5,687.8,8205.4,2030.3,5610,565.3
+5,"Fort Worth-Arlington, TX Metropolitan Division",TX,2014,1187883,6346,66,0,1633,3871,45663,9600,32803,3260,1042.2,10,0,270.3,637.2,7515.7,1530.7,5455.9,529.1
